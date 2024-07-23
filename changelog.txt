@@ -1,0 +1,18 @@
++: added |-: removed |#: planed
+-------------------------------------
+V.1: Pack Creation
++ Transparent Water
++ New Brakeing Texture
++ No Pumpkin Blur
++ Thin Normal Glass
+- Rainbow Cobweb
+
+V.2:
++ Lobster Font
++ Rainbow White Wool
++ Emissive Ore Textures
+
+V.2.5
+- Lobster Font
++ Pasifico Font (Better Readability)
++ Change Log
